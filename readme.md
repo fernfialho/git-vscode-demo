@@ -1,4 +1,5 @@
 # Learning Git in VSCode
 
 -- second changes
-another file
+-- another file
+-- another change
